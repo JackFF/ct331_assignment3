@@ -1,0 +1,1 @@
+contains1(el, [el | _]).
